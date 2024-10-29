@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	--orange-color: #ef8c68;
+	--orange-color-hover: #c74a1d;
+	--white: #fff;
+	--greyish: #f5f5f5;
+	--primary-green: #4b9181;
+	--primary-green-hover: #2f5e53;
+	--secondary-green: #337364;
+	--primary-black: #0d2237;
+	--secondary-black: #707070;
+	font-family: "Montserrat", sans-serif;
+	--shadow: 0px 3px 6px #d5d9e2;
+	/* background: var(--greyish); */
+}
+body {
+	background: var(--greyish);
+}
+button {
+	cursor: pointer;
+}
