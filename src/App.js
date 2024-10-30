@@ -84,7 +84,7 @@ function App() {
               </Route>
               
               <Route path="profile" element={<Profile />} />
-              <Route path="sign-in-web" element={<SignIn />} />
+              <Route path="account/sign-in" element={<SignIn />} />
             </Route>
           </Route>
         </Routes>
